@@ -1,0 +1,11 @@
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Pytest Cache
+.pytest_cache/
+
+# Virtual Environment (Tumhare pichle terminal output ke hisaab se)
+.venv/
+venv/
